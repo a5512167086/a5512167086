@@ -1,4 +1,4 @@
-### Hi there 👋, My Name Is YOU, JHIH-SHIN
+### My Name Is YOU, JHIH-SHIN
 #### Try To Be A Front End Developer
 
 Skills: HTML / CSS / SCSS / BOOTSTRAP / JAVASCRIPT /REACT

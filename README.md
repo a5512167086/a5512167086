@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**a5512167086/a5512167086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align =“ center”>我叫JHIH-SHIN我是你</ h1>
 <h3 align =“ center”>嘗試成為Fronet最終開發人員</ h3>
 

@@ -1,12 +1,16 @@
-<h1 align =“ center”>我叫JHIH-SHIN我是你</ h1>
-<h3 align =“ center”>嘗試成為Fronet最終開發人員</ h3>
+### Hi there 👋, My Name Is YOU, JHIH-SHIN
+#### Try To Be A Front End Developer
 
-<p align =“ left”> <img src =“ https://komarev.com/ghpvc/?username=shin&label=Profile%20views&color=0e75b6&style=flat” alt =“ shin” /> </ p>
+Skills: HTML / CSS / SCSS / BOOTSTRAP / JAVASCRIPT /REACT
 
 
-<h3 align =“ left”>語言和工具：</ </ h3>
-<p align =“ left”> <a href="https://getbootstrap.com" target="_blank"> <img src =“ https://raw.githubusercontent.com/devicons/devicon/master/icons/ bootstrap / bootstrap-plain-wordmark.svg“ alt =”引導程序“ width =” 40“ height =” 40“ /> </a> <a href =” https://www.w3schools.com/css/“目標=“ _ blank”> <img src =“ https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg” alt =“ css3” width =“ 40” height = “ 40” /> </a> <a href="https://www.figma.com/" target="_blank"> <img src =“ https://www.vectorlogo.zone/logos/figma/ figma-icon.svg”alt =“ figma” width =“ 40” height =“ 40” /> </a> <a href="https://git-scm.com/" target="_blank"> <img src =“ https： //www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg“ alt =” git“ width =” 40“ height =” 40“ /> </a> <a href =” https： //www.w3.org/html/“ target =” _ blank“> <img src =” https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg“ alt =“ html5” width =“ 40” height =“ 40” /> </a> <a href =“ https://developer.mozilla.org/zh-CN/docs/Web/JavaScript” target =“ _ blank “> <img src =” https：// raw。githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg“ alt =” javascript“ width =” 40“ height =” 40“ /> </a> <a href =” https：// nodejs.org“ target =” _ blank“> <img src =” https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg“ alt =” nodejs“ width = “ 40” height =“ 40” /> </a> <a href="https://reactjs.org/" target="_blank"> <img src =“ https://raw.githubusercontent.com/devicons /devicon/master/icons/react/react-original-wordmark.svg“ alt =”反應“ width =” 40“ height =” 40“ /> </a> <a href =” https：//sass-lang.com“ target =” _ blank“> <img src =” https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg“ alt =” sass“ width =“ 40” height =“ 40” /> </a> <a href="https://unity.com/" target="_blank"> <img src =“ https://www.vectorlogo.zone /logos/unity3d/unity3d-icon.svg“ alt =” unity“ width =” 40“ height =” 40“ /> </a> </ p>com /“ target =” _ blank“> <img src =” https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg“ alt =” unity“ width =” 40“ height =” 40“ / > </a> </ p>com /“ target =” _ blank“> <img src =” https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg“ alt =” unity“ width =” 40“ height =” 40“ / > </a> </ p>
 
-<p> <img align =“ center” src =“ https://github-readme-stats.vercel.app/api/top-langs?username=shin&show_icons=true&locale=en&layout=compact” alt =“ shin” /> </ p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/a5512167086)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/游志信)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shin_0113_/)  
 
-<p> <img align =“ center” src =“ https://github-readme-streak-stats.herokuapp.com/?user=shin&” alt =“ shin” /> </ p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a5512167086)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=a5512167086&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=a5512167086)  
+
+![Profile views](https://gpvc.arturio.dev/a5512167086)  

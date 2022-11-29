@@ -2,7 +2,7 @@
 
 #### Hi, I am Shin
 
-I am currently studying in Tamkang University, majoring in Computer Science. I am also a Front-End Web Developer, and learning Back-End Tech for being a Full-Stack Developer. Thanks for watching my Introduction.
+Hi, I am Shin. I am currently studying in Tamkang University, major in Computer Science. I love solving some complicate issues and attending numerous kinds of technical meetups to improve my coding skill. In order to become a brilliant front-end web developer. Thanks for watching my introduction.
 
 📫 How to reach me: bear5512177@gmail.com 
 

@@ -37,14 +37,6 @@ Hi! I'm **Shin** 👋, a software engineer from New Taipei, Taiwan.
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a5512167086&theme=dark&show_icons=true&include_all_commits=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=a5512167086&theme=dark" width="48%" />
-</div>
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shin-you-ab4757211)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bear55121677@gmail.com)
